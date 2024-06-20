@@ -1,0 +1,10 @@
+Words=[
+"jerry",
+"apple",
+"beautiful",
+"mango",
+"god",
+"jayanti"
+"attitude"
+"aeroplane"
+]
